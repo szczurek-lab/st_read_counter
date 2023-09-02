@@ -1,6 +1,6 @@
 # read_counter
 
-Since standard mutation callers cannot be directly applied to Spatial Transcriptomics BAM files, we developed a custom tool called read_counter (https://github.com/shafighi/read_counter) to identify mutation alleles for input to Tumoroscope.  
+Since standard mutation callers cannot be directly applied to Spatial Transcriptomics BAM files, we developed a custom tool called read_counter (https://github.com/szczurek-lab/st_read_counter) to identify mutation alleles for input to Tumoroscope.  
 
 
 # Usage 
